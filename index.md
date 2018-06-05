@@ -9,6 +9,11 @@ title: 44b.github.io
 #### 30. Mai'18
 bin gerade am überlegen ob ich nicht eine eigene Github Seite für meine Sensendenkschrift erstelle.
 
+#### 05. Juni'18
+So jetzt wurde Github an M$ verkauft, mal schauen in welche Richtung sich die Platzform nun entwickelt.
+
+
+
 
 
 
