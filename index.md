@@ -1,8 +1,5 @@
 ---   
-site: dingsumbs2
 title: jetzt wird es spannend    
-theme: jekyll-theme-cayman
-head: dingsbums4
 --- 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
