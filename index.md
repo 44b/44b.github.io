@@ -1,7 +1,9 @@
 ---   
-site: dingsumbs
+site: dingsumbs2
 title: jetzt wird es spannend    
 theme: jekyll-theme-cayman
+layout: dingsbums3
+head: dingsbums4
 --- 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
