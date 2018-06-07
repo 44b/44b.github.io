@@ -1,6 +1,6 @@
----
-layout: Seite                
-title: jetzt wird es spannend               
+---   
+title: jetzt wird es spannend    
+theme: jekyll-theme-cayman
 --- 
 
 
