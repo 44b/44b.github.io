@@ -1,3 +1,9 @@
+----                
+  -layout: Seite                
+  -title: jetzt wird es spannend                
+---- 
+
+
 Private Internetseite von mir
 ============================================
 
