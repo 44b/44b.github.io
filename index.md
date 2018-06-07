@@ -2,9 +2,6 @@
 title: jetzt wird es spannend    
 --- 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
 Private Internetseite von mir
 ============================================
 
