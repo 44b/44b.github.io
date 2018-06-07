@@ -2,7 +2,6 @@
 site: dingsumbs2
 title: jetzt wird es spannend    
 theme: jekyll-theme-cayman
-layout: jekyll-theme-cayman
 head: dingsbums4
 --- 
 
