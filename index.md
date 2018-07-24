@@ -1,8 +1,8 @@
 ---   
-title: jetzt wird es spannend    
+title: mein kleiner Notizzettel
 --- 
 
-mein privater Notizzettel
+mein kleiner Notizzettel
 ============================================
 
 #### 24. Juli'18
