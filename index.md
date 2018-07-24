@@ -2,7 +2,7 @@
 title: jetzt wird es spannend    
 --- 
 
-Private Internetseite von mir
+mein privater Notizzettel
 ============================================
 
 #### 24. Juli'18
