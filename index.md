@@ -5,6 +5,9 @@ title: jetzt wird es spannend
 Private Internetseite von mir
 ============================================
 
+#### 24. Juli'18
+schau mal in den Ordner [bilder](bilder).
+
 #### 30. Mai'18
 bin gerade am überlegen ob ich nicht eine eigene Github Seite für meine Sensendenkschrift erstelle.
 
